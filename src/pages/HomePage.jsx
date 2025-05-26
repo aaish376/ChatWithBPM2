@@ -25,12 +25,12 @@ const Homepage = () => {
             >
               Get Started
             </Link>
-            <Link
+            {/* <Link
               to="/"
               className="bg-gray-200 text-gray-700 py-2 px-6 rounded-md hover:bg-gray-300"
             >
               Learn More
-            </Link>
+            </Link> */}
           </div>
         </div>
 

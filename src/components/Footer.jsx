@@ -10,11 +10,12 @@ const Footer = () => {
         </div>
 
         {/* Right side - Links */}
-        <div className="flex space-x-6">
-          <a href="/privacy-policy" className="hover:text-gray-400 transition">Privacy Policy</a>
-          <a href="/terms-of-service" className="hover:text-gray-400 transition">Terms of Service</a>
-          <a href="/contact" className="hover:text-gray-400 transition">Contact</a>
-        </div>
+       <div className="flex space-x-6">
+  <a href="/privacy-policy" className="hover:text-gray-400 transition">Privacy Policy</a>
+  <a href="/terms-of-service" className="hover:text-gray-400 transition">Terms of Service</a>
+  
+</div>
+
       </div>
     </footer>
   );
